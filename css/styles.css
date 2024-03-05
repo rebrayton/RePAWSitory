@@ -1,0 +1,90 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#id 1/page
+.class has a period
+
+
+
+/* Basic styling */
+body {
+    font-family: libre, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    display: inline-block;
+    padding: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h3{
+    font-family: Georgia, sans-serif;
+} 
+
+
+nav ul {     
+    list-style: none;  
+    display: block;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: #D8C8BD;
+    color: #fff;
+    text-align: none;
+    padding: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card {
+    background-color: #D8C8BD;
+    display: inline-block;
+    padding: 9px; 
+    border: 3px solid black;
+    border-radius: 8px;
+
+}
+.btn {
+        background-color: #85677B;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
+
+
+
+
